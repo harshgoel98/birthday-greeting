@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
   
     recipient.addEventListener('click', function() {
-      alert('Happy Birthday, Super Milkie🎉🎂');
+      alert('Happy Birthday, Super Milkie🎉🎂 ( My Personal Java Expert )');
       // You can add any other actions or animations for the recipient here
     });
   
